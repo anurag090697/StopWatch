@@ -4,7 +4,7 @@ This project is a StopWatch created using HTML, CSS, and JavaScript.
 
 ## Hosted Link
 
-[Click here to view the LeaderBoard](https://anurag090697.github.io/StopWatch/)
+[Click here to view the page](https://anurag090697.github.io/StopWatch/)
 
 ## Features
 
@@ -24,6 +24,6 @@ This project is a StopWatch created using HTML, CSS, and JavaScript.
 
 ## Contributors
 
-- [Your Name](link to your GitHub profile)
+- [Anurag Shukla](https://github.com/anurag090697)
 
 Feel free to contribute to this project by submitting pull requests.
